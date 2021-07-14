@@ -16,3 +16,6 @@ conda env list
 To enter this environment from a terminal prompt - Type:
 
 source activate pangeo
+
+CERES-EBAF dataset analyzed in this project is available at:
+https://drive.google.com/file/d/1ube1oNgPCh15Y4X28nkSeuXNuTblwqCo/view?usp=sharing
